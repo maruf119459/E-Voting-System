@@ -53,15 +53,7 @@ Feel free to make changes based on your requirements.
 |<img src="ss/admin/7.png" width="400">|<img src="ss/voter/7.png" width="400">|
 |<img src="ss/admin/8.png" width="400">|<img src="ss/voter/8.png" width="400">|
 |<img src="ss/admin/9.png" width="400">|<img src="ss/voter/9.png" width="400">|
-|<img src="ss/admin/10.png" width="400">|<img src="ss/voter/10.png" width="400">|
-|<img src="ss/admin/11.png" width="400">|<img src="ss/voter/11.png" width="400">|
-|<img src="ss/admin/12.png" width="400">|<img src="ss/voter/12.png" width="400">|
-|<img src="ss/admin/13.png" width="400">|<img src="ss/voter/13.png" width="400">|
-|<img src="ss/admin/14.png" width="400">|<img src="ss/voter/14.png" width="400">|
-|<img src="ss/admin/15.png" width="400">|------- ------ ------ ------|
-|<img src="ss/admin/16.png" width="400">|------- ------ ------ ------|
-|<img src="ss/admin/17.png" width="400">|------- ------ ------ ------|
-|<img src="ss/admin/18.png" width="400">|------- ------ ------ ------|
+
 
 
 
